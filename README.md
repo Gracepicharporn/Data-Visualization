@@ -2,6 +2,8 @@
 
 This repository contains two data visualization projects using Tableau. The first project used the [nomis dataset](https://www.nomisweb.co.uk/) which provides statistical data related to the population, society and the labour market at national, regional and local levels on the UK. Moreover, it applied the data projection. The another project included [bulk bookstore dataset](https://www.kaggle.com/datasets/yamqwe/bulk-bookstore-dataset) which contains prices and other information about approximately 1000 books. More detail can find as the following:
 
+---
+
 # nomis-data 
 
 This project provides data preparation using Tableau Prep, data visualisation by Tableau and data projection using PCA as well as UMAP. Working with [the nomis dataset](https://www.nomisweb.co.uk/) combines the statistical data in the UK including population, society, and region. 
@@ -13,4 +15,10 @@ The first step was pre-processing data with Tableau Prep before visualizing it w
 **The example of dashboard**
 ![alt text for screen readers](images/Dashboard-1.png)
 
+**PAC (the data projection) among the ethnic group who have employed**
+![alt text for screen readers](images/PCA.jpg)
+
+---
+
+# bookstore
 
