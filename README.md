@@ -22,3 +22,10 @@ The first step was pre-processing data with Tableau Prep before visualizing it w
 
 # bookstore
 
+This visualization intends to answer these questions as follows:
+* Is there a link between the amount of time spent writing each day and the total pages? 
+* Is there a correlation between book reviews and purchases?
+* Show where authors live and the number of published works produced in each country
+
+**Dashboard for answering those questions**
+![alt text for screen readers](images/Dashboard-2.png)
